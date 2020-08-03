@@ -1,4 +1,4 @@
-# Covid19 Statisctic
+# Covid19 Statistic
 Usage:
 ```sh
 $ java -jar covid19.jar
